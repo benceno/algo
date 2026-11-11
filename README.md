@@ -1,7 +1,7 @@
 
 <div align=center>
 <h1>Eduardo Rubben Elias Hernandez Gonzelez</h1></div>
-<h5>Esto es una prueba de yo</h5>
+<h5>Esto es una persona que me gusta la informatica y la programacion, soy estudante de lic en Computacion en CUCosta </h5>
 <div align=center>
 <h2> Mis cosas</h2></div>
 
