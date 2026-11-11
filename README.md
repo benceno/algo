@@ -1,3 +1,14 @@
+<h1 align="center">👋 ¡Hola! Soy Eduardo</h1>
+
+<h3 align="center">
+  Desarrollador de software | PHP | C++ | Laravel
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desarrollo-Web-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programación-C++-00599C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge">
+</p>
 
 <div align=center>
 <h1>Eduardo Rubben Elias Hernandez Gonzelez</h1></div>
