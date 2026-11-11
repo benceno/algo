@@ -5,4 +5,4 @@
 
 <h2> Mis cosas</h2>
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled >
+<img width="96" height="96" alt="icons8-c-programación-96" src="https://github.com/user-attachments/assets/652931d4-101a-46b3-ae50-19143820b448" />
