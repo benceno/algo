@@ -1,6 +1,6 @@
 
-
-<h1>Hola soy Elias</h1>
+<div align=center>
+<h1>Hola soy Elias</h1></div>
 
 <div align=center>
 <h2> Mis cosas</h2></div>
