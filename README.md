@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Eduardo</h1>
+<h1 align="center">👋 Eduardo Rubben Elias Hernandez Gonzelez</h1>
 
 <h3 align="center">
   Desarrollador de software | PHP | C++ | Laravel
@@ -11,8 +11,7 @@
 </p>
 
 <div align=center>
-<h1>Eduardo Rubben Elias Hernandez Gonzelez</h1></div>
-<h5>Esto es una persona que me gusta la informatica y la programacion, soy estudante de lic en Computacion en CUCosta </h5>
+
 <div align=center>
 <h2> Mis cosas</h2></div>
 
